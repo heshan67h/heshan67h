@@ -2,10 +2,6 @@
 
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Heshan%20Sathyanga&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" />
 
-<h1 align="center">Heshan&nbsp;&nbsp;&nbsp;Sathyanga</h1>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Software+Engineer;💻+Full+Stack+Developer;🎯+Problem+Solver;⚡+Code+Enthusiast;🌟+Always+Learning+%26+Growing!;🔥+Building+Amazing+Things!" alt="Typing SVG" />
 
 <p align="center">
@@ -13,7 +9,6 @@
   <img src="https://img.shields.io/badge/Followers-1.2K-blue?style=for-the-badge" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
-
 
 </div>
 
