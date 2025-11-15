@@ -199,32 +199,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
 
 ---
 
-<div align="center">
-
-## 💼 Professional Experience
-
-</div>
-
-```yaml
-Experience:
-  - role: "Software Engineer"
-    company: "Tech Innovation Hub"
-    duration: "2023 - Present"
-    highlights:
-      - "Developed scalable web applications serving 10K+ users"
-      - "Implemented CI/CD pipelines reducing deployment time by 60%"
-      - "Led a team of 3 developers on critical projects"
-    
-  - role: "Full Stack Developer"
-    company: "Digital Solutions Inc"
-    duration: "2022 - 2023"
-    highlights:
-      - "Built responsive web applications using React & Node.js"
-      - "Optimized database queries improving performance by 40%"
-      - "Collaborated with cross-functional teams on product development"
-```
-
----
+</details> </div>
 
 <div align="center">
 
